@@ -50,3 +50,9 @@ Also, ignore the `SIGNED_IN` event and only rely on the `INITIAL_SESSION` event 
 ---
 
 _This architectural fix resolves the vast majority of tab-switching freezes in standard Next.js / React applications using self-hosted Supabase._
+
+---
+
+## 🤖 Antigravity Skill Included
+
+If you use the Antigravity Agent ecosystem, you can add this directly to your  folder. See the attached [`fixing-supabase-tab-freeze.md`](./fixing-supabase-tab-freeze.md) file.
