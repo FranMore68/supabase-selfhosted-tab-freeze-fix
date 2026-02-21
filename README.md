@@ -55,4 +55,4 @@ _This architectural fix resolves the vast majority of tab-switching freezes in s
 
 ## 🤖 Antigravity Skill Included
 
-If you use the Antigravity Agent ecosystem, you can add this directly to your  folder. See the attached [`fixing-supabase-tab-freeze.md`](./fixing-supabase-tab-freeze.md) file.
+If you use the Antigravity Agent ecosystem, you can add this directly to your `.agent/skills` folder. See the attached [`fixing-supabase-tab-freeze.md`](./fixing-supabase-tab-freeze.md) file.
